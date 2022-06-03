@@ -10,3 +10,7 @@ Create and execute a JavaScript files using Node.js and Visual Studio Code (VSCo
 
 <img src="p1-tree.png" width="300px">
 
+<img src="p1-folders.png" width="300px">
+
+<img src="p1-ping.png" width="300px">
+
